@@ -1,5 +1,3 @@
-# JavaScripts
-
 # 🚀 JavaScript Practice Projects
 
 Welcome to my JavaScript Practice Repository!  
